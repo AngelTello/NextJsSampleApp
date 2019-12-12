@@ -1,10 +1,10 @@
 import NavBar from '../components/navbar';
 
-const Index = () => (
+const About = () => (
     <div>
         <NavBar />
-        <h1>Welcome to my page</h1>
+        <h1>Abour Page</h1>
     </div>
 );
 
-export default Index;
+export default About;
